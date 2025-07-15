@@ -86,7 +86,7 @@ const Index = () => {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-ocean-900/50 to-navy-900/30 z-10"></div>
         <img 
-          src="/img/c24b8185-fce1-4999-b45b-9ad95ce8e1ff.jpg" 
+          src="/img/3108af14-b602-4f99-952a-c9e26040a9ca.jpg" 
           alt="Гостевой домик на берегу моря"
           className="absolute inset-0 w-full h-full object-cover"
         />
